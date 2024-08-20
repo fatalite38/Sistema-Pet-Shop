@@ -1,4 +1,4 @@
-**# Sistema Pet Shop
+## Sistema Pet Shop
 
 O Sistema Pet Shop é uma aplicação web que gerencia atendimentos para pets em uma clínica veterinária. O sistema é desenvolvido utilizando HTML, CSS e JavaScript, com o framework Bootstrap para estilizar a interface do usuário.
 
