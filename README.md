@@ -4,7 +4,7 @@ O Sistema Pet Shop é uma aplicação web que gerencia atendimentos para pets em
 
 ## Desenvolvimento
 
-Este projeto foi desenvolvido em grupo como parte do curso Santander Coders, para a finalização de um módulo. A participação de todos os membros do grupo foi fundamental para o sucesso do projeto, refletindo a colaboração e o esforço coletivo.
+Este projeto foi desenvolvido em grupo como parte do curso Santander Coders, para a finalização do módulo. A participação de todos os membros do grupo foi fundamental para o sucesso do projeto, refletindo a colaboração e o esforço coletivo.
 
 Para desenvolver o sistema, é recomendável utilizar um editor de código como o Visual Studio Code ou o Sublime Text. É também recomendável utilizar um servidor web local como o XAMPP ou o WAMP para testar o sistema.
 
